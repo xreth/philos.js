@@ -1,2 +1,1 @@
-          # philos.js 
-      
+# philos.js
