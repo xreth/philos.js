@@ -1,1 +1,1 @@
-# philos.js
+# .js
